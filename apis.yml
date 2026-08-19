@@ -36,7 +36,7 @@ x-defunct-date: '2015-06-11'
 x-shutdown-announced: '2015-03-13'
 x-migrated-to: stripe
 x-founded-via: y-combinator-w2011
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
