@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Balanced is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: a16z
+Balanced was a payments API for online marketplaces and crowdfunding platforms, founded out of Y Combinator (W2011) and backed by Andreessen Horowitz (a16z), SV Angel, Collaborative Fund, and angels including Brian Chesky and Ashton Kutcher. It offered a developer-first API for processing cards and bank (ACH) payments, paying out to sellers, and handling seller identity/underwriting for marketplaces. Balanced announced on 2015-03-13 that it was shutting down its payments platform and gave customers 90 days notice, striking a transition deal that migrated card, bank account, and seller identity data to Stripe by 2015-06-11. The company and its API are defunct; the balancedpayments.com domain is now a parked/lander page and the api/docs hosts no longer resolve.
+
+**Areas:** Company · Payments · Fintech · Marketplace Payments · ACH · Developer API · Defunct
+
+## Balanced on APIs.io (historical record)
+
+Everything profiled for Balanced is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/balanced/](https://apis.io/providers/balanced/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Balanced: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/balanced/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
